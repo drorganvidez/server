@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Ajustar zona horaria
+sudo timedatectl set-timezone "Europe/Madrid"
+
 # Lista de repositorios
 repos=(
   "https://github.com/drorganvidez/shellinabox"
