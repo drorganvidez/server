@@ -4,6 +4,7 @@
 repos=(
   "https://github.com/drorganvidez/shellinabox"
   "https://github.com/drorganvidez/filebrowser"
+  "https://github.com/drorganvidez/docker-ubuntu"
   "https://github.com/drorganvidez/portainer"
   "https://github.com/drorganvidez/fail2ban"
   "https://github.com/drorganvidez/cockpit"
